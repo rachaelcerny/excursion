@@ -14,6 +14,7 @@ body {
 .dwnld {
   color: aquamarine;
   font-size: 16px;
+  font-family: sans-serif;
 }
 
 h2,
@@ -34,4 +35,5 @@ h3 {
   text-align: right;
   color: gray;
   font-size: 21px;
+  font-family: sans-serif;
 }
