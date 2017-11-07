@@ -1,0 +1,37 @@
+h1 {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+
+body {
+  text-align: center;
+  background-color: black;
+}
+
+.dwnld {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+h2,
+h3 {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+.interest {
+  font-family: Verdana;
+  font-size: 21px;
+  color: Gray;
+}
+
+.footer {
+  text-align: right;
+  color: gray;
+  font-size: 21px;
+}
